@@ -14,7 +14,7 @@ let x = `${pickRandom(['ㅤ'])}`
 let l = Math.floor(Math.random() * x.length);
 let vn = ``
 let top = `*${user(a)}* _estás de suerte , acaba de ganar ${text} 😼💪🏻_
-𝙎𝙄𝙎𝙆𝙀𝘿 𝘽𝙊𝙏 - 𝙈𝘿 𝙏𝙚 𝙙𝙖 𝙎𝙪𝙚𝙧𝙩𝙚 🤖💫
+× 𝐁𝐎𝐓 𝐅𝐈𝐆𝐇𝐓𝐄𝐑𝐒 𝙏𝙚 𝙙𝙖 𝙎𝙪𝙚𝙧𝙩𝙚 🤖💫
 
 `
 let txt = '';
