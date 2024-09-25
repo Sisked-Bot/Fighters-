@@ -42,9 +42,9 @@ global.ianurl = fs.readFileSync('./storage/img/siskedurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/ECbe0H5FdrIHR1mC6tp6ND'
-global.grupo2 = 'https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R'
-global.grupo3 = 'https://chat.whatsapp.com/ECbe0H5FdrIHR1mC6tp6ND'
+global.grupo = 'https://chat.whatsapp.com/C2ems2rqSCXKSs6z3ry3CG'
+global.grupo2 = 'https://chat.whatsapp.com/DKYMGjT2PWU2zLk1TqZPP2'
+global.grupo3 = 'https://chat.whatsapp.com/E0A7o4JGmIa8Ie11yspba6'
 global.channel = 'https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
