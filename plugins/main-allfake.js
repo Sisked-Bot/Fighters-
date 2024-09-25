@@ -32,7 +32,7 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/584123989549'
+global.creador = 'Wa.me/573223215686'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/543876577197'
 global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻'
@@ -46,14 +46,14 @@ global.colab3 = 'IAN-MoDe'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
-global.done = '✅'
+global.done = '🦋'
 global.error = '✖️'
 
-//Emojis determinado de Sisked
-global.emoji = '🌟'
-global.emoji2 = '🌟'
-global.emoji3 = '⭐'
-global.emoji4 = '⭐'
+//Emojis determinado de Yinneth 
+global.emoji = '🐾'
+global.emoji2 = '🧸'
+global.emoji3 = '🫧'
+global.emoji4 = '🪄'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
@@ -64,7 +64,7 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029VajkZ6blXnlwPZmbuH1u'  
-let tiktok = 'https://tiktok.com/@slsked'
+let tiktok = 'https://www.instagram.com/corp_fighters_oficial'
 let correo = 'anuarmazenett@gmail.com'
 
 global.redes = [canal, tiktok, correo].getRandom()
@@ -98,12 +98,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
   
 global.icono = [ 
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
-'https://telegra.ph/file/e4cae86be4d97aabcd77c.jpg',
+'https://qu.ax/mfSC.jpg',
+'https://qu.ax/mfSC.jpg',
+'https://qu.ax/mfSC.jpg',
+'https://qu.ax/mfSC.jpg',
+'https://qu.ax/mfSC.jpg',
+'https://qu.ax/mfSC.jpg',
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "12098765423@newsletter", serverMessageId: 100, newsletterName: '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻', }, externalAdReply: { showAdAttribution: true, title: packname, body: '⭐ Bot De WhatsApp!', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
